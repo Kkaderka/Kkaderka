@@ -4,9 +4,10 @@
  <img src="https://user-images.githubusercontent.com/105015617/205110282-8013ae01-8742-41c8-99b2-b083793faf3d.gif" width=100% height="20%"/>
 
 <br>
- 
+ <h1 align='center' <a href="https://www.gautamkrishnar.com/"> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+
 <div> 
-<h1 align='center' >Hi there 👋  </h1>
+
 
 <p align='center'> My name is Kader. I live in Turkey and I am 23 years old. I am a student in the Computer Programming department, and I work as a front-end developer. </p>
 
