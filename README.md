@@ -9,7 +9,7 @@
 <div> 
 
 
-<p align='center'> My name is Kader. I live in Turkey and I am 23 years old. I am a student in the Computer Programming department, and I work as a front-end developer. </p>
+<p align='center'> My name is Kader.  </p>
 
 <p align="center"> 📧  ☞ <a href = "mailto: kaderkalayciogluu@gmail.com">Kaderkalayciogluu@gmail.com</a> </p>
 
